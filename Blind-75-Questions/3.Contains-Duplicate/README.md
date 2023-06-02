@@ -53,3 +53,5 @@ true
 --------
 
 ### [Solution 1](Sol-1.py)
+
+### [Solution 2](Sol-2.py)
