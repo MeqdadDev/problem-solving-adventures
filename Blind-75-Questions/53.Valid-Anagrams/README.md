@@ -42,3 +42,7 @@ false
 --------
 
 ### [Solution 1](Sol-1.py)
+
+### [Solution 2](Sol-2.py)
+
+### [Solution 3](Sol-3.py)
