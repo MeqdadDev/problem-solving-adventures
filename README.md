@@ -1,7 +1,17 @@
 # Problem Solving
 
-## [Grind 75 using Python](/Grind-75-Questions/)
-[Ref](https://www.techinterviewhandbook.org/grind75)
+## [Grind 75 using Python](/Grind-75-Questions/Python/)
 
-## [Blind 75 using Python](/Blind-75-Questions/)
-[Ref](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+## [Grind 75 using Java](/Grind-75-Questions/Java/)
+
+
+## [Blind 75 using Python](/Blind-75-Questions/Python/)
+
+## [Blind 75 using Java](/Blind-75-Questions/Java/)
+
+
+### References
+
+[Ref: Grind 75](https://www.techinterviewhandbook.org/grind75)
+
+[Ref: Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
