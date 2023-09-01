@@ -2,5 +2,5 @@
 ## Blind 75 List
 
 * [3. Contains Duplicate](/Blind-75-Questions/Java/3.Contains-Duplicate/)
-* [55. Valid Parenthesis](/Blind-75-Questions/Java/55.Valid-Parentheses/)
+* [55. Valid Parentheses](/Blind-75-Questions/Java/55.Valid-Parentheses/)
 
