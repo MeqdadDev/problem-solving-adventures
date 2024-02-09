@@ -29,7 +29,7 @@ public class Main {
         System.out.println("duplicates = " + duplicates);
     }
 
-        public static void findDuplicates_Sol3(String s) {
+    public static void findDuplicates_Sol3(String s) {
         Set<Character> set = new HashSet<>();
         Set<Character> dup = new HashSet<>();
 
@@ -39,8 +39,6 @@ public class Main {
         }
         System.out.println("Duplicates = " + dup);
     }
-
-
 
     public static void main(String[] args) {
 
