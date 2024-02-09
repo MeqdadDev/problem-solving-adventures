@@ -15,6 +15,21 @@ public class Main {
         }
     }
 
+        public static void findDuplicates_Sol2(String str){
+        char chars[] = str.toCharArray();
+        String duplicates = "";
+        System.out.println(chars);
+        for(int c=0; c< chars.length; c++){
+            for (int d=0; d<c; d++){
+                if (chars[c] == chars[d]){
+                    duplicates+= chars[d];
+                }
+            }
+        }
+        System.out.println("duplicates = " + duplicates);
+    }
+
+
     public static void main(String[] args) {
 
         String givenStr = "hello";
