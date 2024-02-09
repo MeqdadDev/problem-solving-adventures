@@ -15,7 +15,7 @@ public class Main {
         }
     }
 
-        public static void findDuplicates_Sol2(String str){
+    public static void findDuplicates_Sol2(String str){
         char chars[] = str.toCharArray();
         String duplicates = "";
         System.out.println(chars);
@@ -29,12 +29,24 @@ public class Main {
         System.out.println("duplicates = " + duplicates);
     }
 
+        public static void findDuplicates_Sol3(String s) {
+        Set<Character> set = new HashSet<>();
+        Set<Character> dup = new HashSet<>();
+
+        for(char c: s.toCharArray()){
+            if(!set.add(c))
+                dup.add(c);
+        }
+        System.out.println("Duplicates = " + dup);
+    }
+
+
 
     public static void main(String[] args) {
 
         String givenStr = "hello";
 
-        findDuplicates(givenStr);
+        findDuplicates_Sol1(givenStr);
 
     }
 
